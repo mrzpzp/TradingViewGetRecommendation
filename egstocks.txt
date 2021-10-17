@@ -1,0 +1,13 @@
+{"SYMBOL": "AAPL", "SCREENER": "america", "EXCHANGE": "NASDAQ" , "INTERVAL": Interval.INTERVAL_1_DAY}
+
+
+{"SYMBOL": "MSFT", "SCREENER": "america", "EXCHANGE": "NASDAQ" , "INTERVAL": Interval.INTERVAL_1_DAY}
+
+
+{"SYMBOL": "GOOGL", "SCREENER": "america", "EXCHANGE": "NASDAQ" , "INTERVAL": Interval.INTERVAL_1_DAY}
+
+
+{"SYMBOL": "AMZN", "SCREENER": "america", "EXCHANGE": "NASDAQ" , "INTERVAL": Interval.INTERVAL_1_DAY}
+
+
+{"SYMBOL": "FB", "SCREENER": "america", "EXCHANGE": "NASDAQ" , "INTERVAL": Interval.INTERVAL_1_DAY}
